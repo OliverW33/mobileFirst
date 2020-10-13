@@ -68,3 +68,7 @@ img {
   padding: 5px;
 }
 
+.search > form {
+  display: flex;
+ }
+
