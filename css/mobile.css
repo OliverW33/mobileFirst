@@ -186,3 +186,20 @@ img {
     text-decoration: underline;
    }
 
+/* form links*/
+
+label{
+  display: block;
+}
+
+input[type="text"],
+input[type="email"],
+textarea{
+  width :300px;
+  padding : 15px, 10px;
+}
+
+form > div{
+  margin-bottom: 20px;
+}
+
